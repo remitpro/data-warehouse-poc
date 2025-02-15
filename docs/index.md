@@ -2,4 +2,4 @@ The Data Warehouse POC project demonstrates how to orchestrate data warehouse tr
 
 ***
 
-<a href="./dataQuality/index.html" target="_blank" > Pipeline Documentation</a>
+<a href= "./dataQuality/index.html" target="_blank"> Pipeline Documentation</a>
