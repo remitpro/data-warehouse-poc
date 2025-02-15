@@ -87,3 +87,7 @@ aws s3 cp s3://awssampledbuswest2/ssbgz/stgSongs/ . --recursive
 
 
 C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Backup\
+
+
+cp -r  target/ ../docs/pipelineDocs/
+
